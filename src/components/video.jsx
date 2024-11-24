@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const categories = ["All", "Travel", "Fashion", "Tutorials", "Events"];
+const categories = ["All", "Travel & Tourism", "Fashion", "Cosmetics", "Ayurveda", "Men's Fashion"];
 
 const videos = {
   All: [
@@ -9,7 +9,7 @@ const videos = {
     { src: "/Videos/tutorial1.mp4", title: "React Tutorial" },
     { src: "/Videos/event1.mp4", title: "Event Highlights" },
   ],
-  Travel: [
+  "Travel & Tourism": [
     { src: "/Videos/travel1.mp4", title: "Travel Adventure" },
     { src: "/Videos/travel2.mp4", title: "Mountain Expedition" },
   ],
@@ -17,11 +17,15 @@ const videos = {
     { src: "/Videos/fashion1.mp4", title: "Fashion Show" },
     { src: "/Videos/fashion2.mp4", title: "Summer Collection" },
   ],
-  Tutorials: [
+  Cosmetics: [
     { src: "/Videos/tutorial1.mp4", title: "React Tutorial" },
     { src: "/Videos/tutorial2.mp4", title: "CSS Basics" },
   ],
-  Events: [
+  Ayurveda: [
+    { src: "/Videos/event1.mp4", title: "Event Highlights" },
+    { src: "/Videos/event2.mp4", title: "Concert Night" },
+  ],
+  "Men's Fashion" : [
     { src: "/Videos/event1.mp4", title: "Event Highlights" },
     { src: "/Videos/event2.mp4", title: "Concert Night" },
   ],
