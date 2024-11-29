@@ -1,34 +1,156 @@
 import React, { useState } from "react";
 
-const categories = ["All", "Travel & Tourism", "Fashion", "Cosmetics", "Ayurveda", "Men's Fashion"];
+const categories = [
+  "All",
+  "Apparel",
+  "Ayurveda",
+  "Cosmetics",
+  "Education",
+  "Fashion",
+  "Home Decor",
+  "Jewellery",
+   "Vehicle",
+  "Medical",
+  "Men's Fashion",
+  "Solar Energy",
+  "Travel & Tourism",
+ "Astroglogy",  
+ "Restaurant",
+].sort();
 
 const videos = {
   All: [
-    { src: "/Videos/travel1.mp4", title: "Travel Adventure" },
-    { src: "/Videos/fashion1.mp4", title: "Fashion Show" },
-    { src: "/Videos/tutorial1.mp4", title: "React Tutorial" },
-    { src: "/Videos/event1.mp4", title: "Event Highlights" },
+    { src: "/Fashion/Video/1.mp4", title: "1" },
+    { src: "/Fashion/Video/2.mp4", title: "1" },
+    { src: "/Fashion/Video/3.mp4", title: "1" },
+    { src: "/Fashion/Video/4.mp4", title: "1" },
+    { src: "/Fashion/Video/5.mp4", title: "1" },
+    { src: "/Fashion/Video/6.mp4", title: "1" },
+    { src: "/Fashion/Video/7.mp4", title: "1" },
+    { src: "/Fashion/Video/8.mp4", title: "1" },
+    { src: "/Fashion/Video/9.mp4", title: "1" },
+    { src: "/Home Decor/Video/2.mp4", title: "1" },
+    { src: "/Jewellery/Video/1.mp4", title: "1" },
+
+    { src: "/Cosmetics/Video/11.mp4", title: "1" },
+    { src: "/Vehicle/Video/4.mp4", title: "1" },
+
+    { src: "/Cosmetics/Video/12.mp4", title: "1" },
+    { src: "/Cosmetics/Video/13.mp4", title: "1" },
+    { src: "/Education/Video/11.mp4", title: "1" },
+    { src: "/Education/Video/13.mp4", title: "1" },
+    { src: "/Education/Video/14.mp4", title: "1" },
+    { src: "/Restaurant/Video/8.mp4", title: "1" },
+    { src: "/Astroglogy/Video/Astropandit V (1).mp4", title: "1" },
+    { src: "/Ayurveda/Video/233.mp4", title: "1" },
+    { src: "/Restaurant/Video/7.mp4", title: "1" },
+
+    { src: "/Restaurant/Video/1.mp4", title: "1" },
+    { src: "/Restaurant/Video/2.mp4", title: "1" },
+    { src: "/Restaurant/Video/3.mp4", title: "1" },
+    { src: "/Restaurant/Video/4.mp4", title: "1" },
+    { src: "/Restaurant/Video/5.mp4", title: "1" },
+    { src: "/Restaurant/Video/6.mp4", title: "1" },
+    { src: "/Home Decor/Video/1.mp4", title: "1" },
+
+    { src: "/Education/Video/12.mp4", title: "1" },
+    { src: "/Medical/Video/1.mp4", title: "1" },
+    { src: "/Medical/Video/2.mp4", title: "1" },
+    { src: "/Medical/Video/3.mp4", title: "1" },
+    { src: "/Medical/Video/4.mp4", title: "1" },
+    { src: "/Ayurveda/Video/234.mp4", title: "1" },
+    { src: "/Ayurveda/Video/232.mp4", title: "1" },
+    { src: "/Solar Energy/Video/1.mp4", title: "1" },
+    { src: "/Solar Energy/Video/2.mp4", title: "1" },
+
   ],
-  "Travel & Tourism": [
-    { src: "/Videos/travel1.mp4", title: "Travel Adventure" },
-    { src: "/Videos/travel2.mp4", title: "Mountain Expedition" },
+  "Home Decor":[
+    { src: "/Home Decor/Video/2.mp4", title: "1" },
+    { src: "/Home Decor/Video/1.mp4", title: "1" },
+
+
+
   ],
-  Fashion: [
-    { src: "/Videos/fashion1.mp4", title: "Fashion Show" },
-    { src: "/Videos/fashion2.mp4", title: "Summer Collection" },
+  "Solar Energy":[
+    { src: "/Solar Energy/Video/1.mp4", title: "1" },
+    { src: "/Solar Energy/Video/2.mp4", title: "1" },
+
+
+  ],
+  Vehicle:[
+    { src: "/Vehicle/Video/4.mp4", title: "1" },
+    { src: "/Vehicle/Video/5.mp4", title: "1" },
+
+    { src: "/Vehicle/Video/6.mp4", title: "1" },
+    { src: "/Vehicle/Video/3.mp4", title: "1" },
+
+    { src: "/Vehicle/Video/1.mp4", title: "1" },
+    { src: "/Vehicle/Video/2.mp4", title: "1" },
+
+
+
+  ],
+  Restaurant:[
+    { src: "/Restaurant/Video/8.mp4", title: "1" },
+    { src: "/Restaurant/Video/7.mp4", title: "1" },
+    { src: "/Restaurant/Video/1.mp4", title: "1" },
+    { src: "/Restaurant/Video/2.mp4", title: "1" },
+    { src: "/Restaurant/Video/3.mp4", title: "1" },
+    { src: "/Restaurant/Video/4.mp4", title: "1" },
+    { src: "/Restaurant/Video/5.mp4", title: "1" },
+    { src: "/Restaurant/Video/6.mp4", title: "1" },
+
+
+  ],
+  Jewellery:[
+    { src: "/Jewellery/Video/1.mp4", title: "1" },
+  ],
+  Fashion:[
+    { src: "/Fashion/Video/1.mp4", title: "1" },
+    { src: "/Fashion/Video/2.mp4", title: "1" },
+    { src: "/Fashion/Video/3.mp4", title: "1" },
+    { src: "/Fashion/Video/4.mp4", title: "1" },
+    { src: "/Fashion/Video/5.mp4", title: "1" },
+    { src: "/Fashion/Video/6.mp4", title: "1" },
+    { src: "/Fashion/Video/7.mp4", title: "1" },
+    { src: "/Fashion/Video/8.mp4", title: "1" },
+    { src: "/Fashion/Video/9.mp4", title: "1" },
+
+
+  ],
+  Medical:[
+    { src: "/Medical/Video/1.mp4", title: "1" },
+    { src: "/Medical/Video/2.mp4", title: "1" },
+    { src: "/Medical/Video/3.mp4", title: "1" },
+    { src: "/Medical/Video/4.mp4", title: "1" },
+
+
+  ],
+  Education:[
+    { src: "/Education/Video/11.mp4", title: "1" },
+    { src: "/Education/Video/13.mp4", title: "1" },
+    { src: "/Education/Video/14.mp4", title: "1" },
+    { src: "/Education/Video/12.mp4", title: "1" },
+
+
+  ],
+  Astroglogy: [
+    { src: "/Astroglogy/Video/Astropandit V (1).mp4", title: "1" },
   ],
   Cosmetics: [
-    { src: "/Videos/tutorial1.mp4", title: "React Tutorial" },
-    { src: "/Videos/tutorial2.mp4", title: "CSS Basics" },
+    { src: "/Cosmetics/Video/11.mp4", title: "1" },
+    { src: "/Cosmetics/Video/12.mp4", title: "1" },
+    { src: "/Cosmetics/Video/13.mp4", title: "1" },
+
   ],
   Ayurveda: [
-    { src: "/Videos/event1.mp4", title: "Event Highlights" },
-    { src: "/Videos/event2.mp4", title: "Concert Night" },
+    { src: "/Ayurveda/Video/233.mp4", title: "1" },
+    { src: "/Ayurveda/Video/234.mp4", title: "1" },
+    { src: "/Ayurveda/Video/232.mp4", title: "1" },
+   
+
   ],
-  "Men's Fashion" : [
-    { src: "/Videos/event1.mp4", title: "Event Highlights" },
-    { src: "/Videos/event2.mp4", title: "Concert Night" },
-  ],
+
 };
 
 function VideoGallery() {
@@ -75,22 +197,28 @@ function VideoGallery() {
       </div>
 
       {/* Video Thumbnails */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {videos[activeCategory].map((video, index) => (
-          <div
-            key={index}
-            className="border rounded-lg shadow-md p-2 hover:scale-105 transform transition duration-300 cursor-pointer"
-            onClick={() => openModal(index)}
-          >
-            <video
-              src={video.src}
-              className="w-full h-58 object-cover rounded-md"
-              controls={false}
-              muted
-            />
-            <div className="mt-2 text-center font-semibold">{video.title}</div>
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+        {videos[activeCategory] && videos[activeCategory].length > 0 ? (
+          videos[activeCategory].map((video, index) => (
+            <div
+              key={index}
+              className="border rounded-lg shadow-md p-2 hover:scale-105 transform transition duration-300 cursor-pointer aspect-video"
+              onClick={() => openModal(index)}
+            >
+              <video
+                src={video.src}
+                controls={false}
+                muted
+                className="w-full h-object object-cover"
+              />
+              {/* <div className="mt-2 text-center font-semibold">{video.title}</div> */}
+            </div>
+          ))
+        ) : (
+          <div className="col-span-full text-center text-lg text-gray-500">
+            Videos for this category are not available at this moment.
           </div>
-        ))}
+        )}
       </div>
 
       {/* Modal */}

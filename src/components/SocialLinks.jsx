@@ -3,10 +3,13 @@ import React from "react";
 const SocialLinks = () => {
   const links = [
   
-    { href: "#", icon: "fab fa-whatsapp", name: "Whatsapp" },
-    { href: "#", icon: "fab fa-instagram", name: "Instagram" },
-    { href: "#", icon: "fab fa-facebook", name: "Facebook" },
-    { href: "#", icon: "fab fa-linkedin", name: "LinkedIn" },
+    { href: "https://wa.link/ubdqgt", icon: "fab fa-whatsapp", name: "Whatsapp" },
+    { href: "https://www.instagram.com/digitma_india/", icon: "fab fa-instagram", name: "Instagram" },
+    { href: "https://www.facebook.com/DigitmaInfologics", icon: "fab fa-facebook", name: "Facebook" },
+    { href: "https://www.youtube.com/@digitmaedutech", icon: "fab fa-youtube", name: "Youtube" },
+    { href: "https://digitma.org/", icon: "fa fa-globe", name: "Website" },
+
+
   ];
 
   return (
