@@ -6,7 +6,7 @@ function Header() {
     <header className="flex flex-wrap justify-between items-center px-4 py-2 bg-white rounded-full animate-fade-in shadow-md">
         {/* Logo Section */}
         <div className="text-xl sm:text-3xl font-bold text-gray-800">
-        <Link to={'/'}> <span className="text-orange-500">DIGITMA</span></Link>
+        <Link to={'/'}> <span className="text-orange-500">METASOFT</span></Link>
         </div>
 
         {/* Button Section */}

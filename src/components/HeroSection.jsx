@@ -23,7 +23,7 @@ function HeroSection() {
         <h1 className="text-5xl lg:text-8xl max-w-xl font-extrabold">
           <Typewriter
             options={{
-              strings: ['DIGITMA <span style="color: #F97316;">SHOWCASE</span>'],
+              strings: ['METASOFT <span style="color: #F97316;">INNOTECH</span>'],
               autoStart: true,
               loop: true,
               deleteSpeed: 50,
@@ -31,7 +31,7 @@ function HeroSection() {
           />
         </h1>
         <p className="text-gray-300 max-w-3xl text-lg lg:text-xl">
-        Digitma Infologics, a premier digital marketing agency in Dehradun, specializes in tailored SEO, innovative social media marketing, and comprehensive web development solutions. Our unwavering commitment is to elevate online visibility and drive transformative growth for our valued clients.
+        Metasoft Innotech, a premier digital marketing agency in Dehradun, specializes in tailored SEO, innovative social media marketing, and comprehensive web development solutions. Our unwavering commitment is to elevate online visibility and drive transformative growth for our valued clients.
         </p>
         <a href="https://digitma.org/" target="_blank"  >
         <button className="bg-orange-500 text-white mt-5 px-8 py-2 rounded-full text-lg hover:bg-orange-600 transition duration-300 ease-in-out">
