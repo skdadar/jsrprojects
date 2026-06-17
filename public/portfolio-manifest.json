@@ -1,0 +1,2178 @@
+{
+  "generatedAt": "2026-06-17T17:15:40.927Z",
+  "version": 2,
+  "clients": [
+    {
+      "id": "somashrooms",
+      "name": "Somashrooms",
+      "folder": "somashrooms",
+      "order": 0,
+      "images": [
+        {
+          "id": "clients-somashrooms-image-s1-1-jpg",
+          "src": "/clients/somashrooms/image/s1 (1).jpg",
+          "title": "s1 (1)",
+          "filename": "s1 (1).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-2-jpg",
+          "src": "/clients/somashrooms/image/s1 (2).jpg",
+          "title": "s1 (2)",
+          "filename": "s1 (2).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-3-jpg",
+          "src": "/clients/somashrooms/image/s1 (3).jpg",
+          "title": "s1 (3)",
+          "filename": "s1 (3).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-4-jpg",
+          "src": "/clients/somashrooms/image/s1 (4).jpg",
+          "title": "s1 (4)",
+          "filename": "s1 (4).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-5-jpg",
+          "src": "/clients/somashrooms/image/s1 (5).jpg",
+          "title": "s1 (5)",
+          "filename": "s1 (5).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-6-jpg",
+          "src": "/clients/somashrooms/image/s1 (6).jpg",
+          "title": "s1 (6)",
+          "filename": "s1 (6).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-7-jpg",
+          "src": "/clients/somashrooms/image/s1 (7).jpg",
+          "title": "s1 (7)",
+          "filename": "s1 (7).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-8-jpg",
+          "src": "/clients/somashrooms/image/s1 (8).jpg",
+          "title": "s1 (8)",
+          "filename": "s1 (8).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-9-jpg",
+          "src": "/clients/somashrooms/image/s1 (9).jpg",
+          "title": "s1 (9)",
+          "filename": "s1 (9).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-10-jpg",
+          "src": "/clients/somashrooms/image/s1 (10).jpg",
+          "title": "s1 (10)",
+          "filename": "s1 (10).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-11-jpg",
+          "src": "/clients/somashrooms/image/s1 (11).jpg",
+          "title": "s1 (11)",
+          "filename": "s1 (11).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-12-jpg",
+          "src": "/clients/somashrooms/image/s1 (12).jpg",
+          "title": "s1 (12)",
+          "filename": "s1 (12).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-13-jpg",
+          "src": "/clients/somashrooms/image/s1 (13).jpg",
+          "title": "s1 (13)",
+          "filename": "s1 (13).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-14-jpg",
+          "src": "/clients/somashrooms/image/s1 (14).jpg",
+          "title": "s1 (14)",
+          "filename": "s1 (14).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-15-jpg",
+          "src": "/clients/somashrooms/image/s1 (15).jpg",
+          "title": "s1 (15)",
+          "filename": "s1 (15).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-16-jpg",
+          "src": "/clients/somashrooms/image/s1 (16).jpg",
+          "title": "s1 (16)",
+          "filename": "s1 (16).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-17-jpg",
+          "src": "/clients/somashrooms/image/s1 (17).jpg",
+          "title": "s1 (17)",
+          "filename": "s1 (17).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-image-s1-18-jpg",
+          "src": "/clients/somashrooms/image/s1 (18).jpg",
+          "title": "s1 (18)",
+          "filename": "s1 (18).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-somashrooms-video-soma-1-1-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (1).mp4",
+          "title": "soma 1 (1)",
+          "filename": "soma 1 (1).mp4",
+          "addedAt": "2026-06-17T10:17:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-2-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (2).mp4",
+          "title": "soma 1 (2)",
+          "filename": "soma 1 (2).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-3-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (3).mp4",
+          "title": "soma 1 (3)",
+          "filename": "soma 1 (3).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-4-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (4).mp4",
+          "title": "soma 1 (4)",
+          "filename": "soma 1 (4).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-5-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (5).mp4",
+          "title": "soma 1 (5)",
+          "filename": "soma 1 (5).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-6-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (6).mp4",
+          "title": "soma 1 (6)",
+          "filename": "soma 1 (6).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-7-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (7).mp4",
+          "title": "soma 1 (7)",
+          "filename": "soma 1 (7).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-8-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (8).mp4",
+          "title": "soma 1 (8)",
+          "filename": "soma 1 (8).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-9-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (9).mp4",
+          "title": "soma 1 (9)",
+          "filename": "soma 1 (9).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-10-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (10).mp4",
+          "title": "soma 1 (10)",
+          "filename": "soma 1 (10).mp4",
+          "addedAt": "2026-06-17T10:17:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-11-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (11).mp4",
+          "title": "soma 1 (11)",
+          "filename": "soma 1 (11).mp4",
+          "addedAt": "2026-06-17T10:17:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-12-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (12).mp4",
+          "title": "soma 1 (12)",
+          "filename": "soma 1 (12).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-13-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (13).mp4",
+          "title": "soma 1 (13)",
+          "filename": "soma 1 (13).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-14-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (14).mp4",
+          "title": "soma 1 (14)",
+          "filename": "soma 1 (14).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-15-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (15).mp4",
+          "title": "soma 1 (15)",
+          "filename": "soma 1 (15).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        },
+        {
+          "id": "clients-somashrooms-video-soma-1-16-mp4",
+          "src": "/clients/somashrooms/video/soma 1 (16).mp4",
+          "title": "soma 1 (16)",
+          "filename": "soma 1 (16).mp4",
+          "addedAt": "2026-06-17T10:18:00.000Z"
+        }
+      ],
+      "imageCount": 18,
+      "videoCount": 16,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:19:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "carluxxe",
+      "name": "CarLuxxe",
+      "folder": "carluxxe",
+      "order": 1,
+      "images": [
+        {
+          "id": "clients-carluxxe-image-c1-1-jpeg",
+          "src": "/clients/carluxxe/image/c1 (1).jpeg",
+          "title": "c1 (1)",
+          "filename": "c1 (1).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-image-c1-1-jpg",
+          "src": "/clients/carluxxe/image/c1 (1).jpg",
+          "title": "c1 (1)",
+          "filename": "c1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-image-c1-2-jpeg",
+          "src": "/clients/carluxxe/image/c1 (2).jpeg",
+          "title": "c1 (2)",
+          "filename": "c1 (2).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-image-c1-3-jpeg",
+          "src": "/clients/carluxxe/image/c1 (3).jpeg",
+          "title": "c1 (3)",
+          "filename": "c1 (3).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-image-c1-4-jpeg",
+          "src": "/clients/carluxxe/image/c1 (4).jpeg",
+          "title": "c1 (4)",
+          "filename": "c1 (4).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-image-c1-5-jpeg",
+          "src": "/clients/carluxxe/image/c1 (5).jpeg",
+          "title": "c1 (5)",
+          "filename": "c1 (5).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-image-c1-6-jpeg",
+          "src": "/clients/carluxxe/image/c1 (6).jpeg",
+          "title": "c1 (6)",
+          "filename": "c1 (6).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-carluxxe-video-v1-mp4",
+          "src": "/clients/carluxxe/video/v1.mp4",
+          "title": "v1",
+          "filename": "v1.mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-carluxxe-video-v2-mp4",
+          "src": "/clients/carluxxe/video/v2.mp4",
+          "title": "v2",
+          "filename": "v2.mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        }
+      ],
+      "imageCount": 7,
+      "videoCount": 2,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:16:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "dr-sourav-shukla",
+      "name": "Dr. Sourav Shukla",
+      "folder": "dr-sourav-shukla",
+      "order": 2,
+      "images": [
+        {
+          "id": "clients-dr-sourav-shukla-image-sourav1-1-jpg",
+          "src": "/clients/dr-sourav-shukla/image/sourav1 (1).jpg",
+          "title": "sourav1 (1)",
+          "filename": "sourav1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-image-sourav1-2-jpg",
+          "src": "/clients/dr-sourav-shukla/image/sourav1 (2).jpg",
+          "title": "sourav1 (2)",
+          "filename": "sourav1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-image-sourav1-3-jpg",
+          "src": "/clients/dr-sourav-shukla/image/sourav1 (3).jpg",
+          "title": "sourav1 (3)",
+          "filename": "sourav1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-image-sourav1-4-jpg",
+          "src": "/clients/dr-sourav-shukla/image/sourav1 (4).jpg",
+          "title": "sourav1 (4)",
+          "filename": "sourav1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-image-sourav1-5-jpg",
+          "src": "/clients/dr-sourav-shukla/image/sourav1 (5).jpg",
+          "title": "sourav1 (5)",
+          "filename": "sourav1 (5).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-image-sourav1-6-jpg",
+          "src": "/clients/dr-sourav-shukla/image/sourav1 (6).jpg",
+          "title": "sourav1 (6)",
+          "filename": "sourav1 (6).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-dr-sourav-shukla-video-dr-sourav-1-1-mp4",
+          "src": "/clients/dr-sourav-shukla/video/dr sourav 1 (1).mp4",
+          "title": "dr sourav 1 (1)",
+          "filename": "dr sourav 1 (1).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-video-dr-sourav-1-2-mp4",
+          "src": "/clients/dr-sourav-shukla/video/dr sourav 1 (2).mp4",
+          "title": "dr sourav 1 (2)",
+          "filename": "dr sourav 1 (2).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-video-dr-sourav-1-3-mp4",
+          "src": "/clients/dr-sourav-shukla/video/dr sourav 1 (3).mp4",
+          "title": "dr sourav 1 (3)",
+          "filename": "dr sourav 1 (3).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-video-dr-sourav-1-4-mp4",
+          "src": "/clients/dr-sourav-shukla/video/dr sourav 1 (4).mp4",
+          "title": "dr sourav 1 (4)",
+          "filename": "dr sourav 1 (4).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-video-dr-sourav-1-5-mp4",
+          "src": "/clients/dr-sourav-shukla/video/dr sourav 1 (5).mp4",
+          "title": "dr sourav 1 (5)",
+          "filename": "dr sourav 1 (5).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        },
+        {
+          "id": "clients-dr-sourav-shukla-video-dr-sourav-1-6-mp4",
+          "src": "/clients/dr-sourav-shukla/video/dr sourav 1 (6).mp4",
+          "title": "dr sourav 1 (6)",
+          "filename": "dr sourav 1 (6).mp4",
+          "addedAt": "2026-06-17T10:19:00.000Z"
+        }
+      ],
+      "imageCount": 6,
+      "videoCount": 6,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:19:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "ground-zero",
+      "name": "Ground Zero",
+      "folder": "ground-zero",
+      "order": 3,
+      "images": [
+        {
+          "id": "clients-ground-zero-image-gz1-1-jpeg",
+          "src": "/clients/ground-zero/image/gz1 (1).jpeg",
+          "title": "gz1 (1)",
+          "filename": "gz1 (1).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ground-zero-image-gz1-1-jpg",
+          "src": "/clients/ground-zero/image/gz1 (1).jpg",
+          "title": "gz1 (1)",
+          "filename": "gz1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ground-zero-image-gz1-2-jpeg",
+          "src": "/clients/ground-zero/image/gz1 (2).jpeg",
+          "title": "gz1 (2)",
+          "filename": "gz1 (2).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ground-zero-image-gz1-2-jpg",
+          "src": "/clients/ground-zero/image/gz1 (2).jpg",
+          "title": "gz1 (2)",
+          "filename": "gz1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ground-zero-image-gz1-3-jpg",
+          "src": "/clients/ground-zero/image/gz1 (3).jpg",
+          "title": "gz1 (3)",
+          "filename": "gz1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ground-zero-image-gz1-4-jpg",
+          "src": "/clients/ground-zero/image/gz1 (4).jpg",
+          "title": "gz1 (4)",
+          "filename": "gz1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ground-zero-image-gz1-5-jpg",
+          "src": "/clients/ground-zero/image/gz1 (5).jpg",
+          "title": "gz1 (5)",
+          "filename": "gz1 (5).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 7,
+      "videoCount": 0,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "servo-hospitality",
+      "name": "Servo Hospitality",
+      "folder": "servo-hospitality",
+      "order": 5,
+      "images": [
+        {
+          "id": "clients-servo-hospitality-image-s1-1-jpg",
+          "src": "/clients/servo-hospitality/image/s1 (1).jpg",
+          "title": "s1 (1)",
+          "filename": "s1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-servo-hospitality-image-s1-2-jpg",
+          "src": "/clients/servo-hospitality/image/s1 (2).jpg",
+          "title": "s1 (2)",
+          "filename": "s1 (2).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-servo-hospitality-image-s1-3-jpg",
+          "src": "/clients/servo-hospitality/image/s1 (3).jpg",
+          "title": "s1 (3)",
+          "filename": "s1 (3).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-servo-hospitality-image-s1-4-jpg",
+          "src": "/clients/servo-hospitality/image/s1 (4).jpg",
+          "title": "s1 (4)",
+          "filename": "s1 (4).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-servo-hospitality-image-s1-5-jpg",
+          "src": "/clients/servo-hospitality/image/s1 (5).jpg",
+          "title": "s1 (5)",
+          "filename": "s1 (5).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-servo-hospitality-image-s1-6-jpg",
+          "src": "/clients/servo-hospitality/image/s1 (6).jpg",
+          "title": "s1 (6)",
+          "filename": "s1 (6).jpg",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 6,
+      "videoCount": 0,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:16:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "ausskill",
+      "name": "Ausskill",
+      "folder": "ausskill",
+      "order": 7,
+      "images": [
+        {
+          "id": "clients-ausskill-image-aihs1-1-jpg",
+          "src": "/clients/ausskill/image/aihs1 (1).jpg",
+          "title": "aihs1 (1)",
+          "filename": "aihs1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ausskill-image-aihs1-2-jpg",
+          "src": "/clients/ausskill/image/aihs1 (2).jpg",
+          "title": "aihs1 (2)",
+          "filename": "aihs1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ausskill-image-aihs1-3-jpg",
+          "src": "/clients/ausskill/image/aihs1 (3).jpg",
+          "title": "aihs1 (3)",
+          "filename": "aihs1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ausskill-image-aihs1-4-jpg",
+          "src": "/clients/ausskill/image/aihs1 (4).jpg",
+          "title": "aihs1 (4)",
+          "filename": "aihs1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 4,
+      "videoCount": 0,
+      "featured": false,
+      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "hindustan",
+      "name": "Hindustan",
+      "folder": "hindustan",
+      "order": 8,
+      "images": [
+        {
+          "id": "clients-hindustan-image-hin1-1-jpg",
+          "src": "/clients/hindustan/image/hin1 (1).jpg",
+          "title": "hin1 (1)",
+          "filename": "hin1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hindustan-image-hin1-2-jpg",
+          "src": "/clients/hindustan/image/hin1 (2).jpg",
+          "title": "hin1 (2)",
+          "filename": "hin1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hindustan-image-hin1-3-jpg",
+          "src": "/clients/hindustan/image/hin1 (3).jpg",
+          "title": "hin1 (3)",
+          "filename": "hin1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hindustan-image-hin1-4-jpg",
+          "src": "/clients/hindustan/image/hin1 (4).jpg",
+          "title": "hin1 (4)",
+          "filename": "hin1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 4,
+      "videoCount": 0,
+      "featured": false,
+      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "dainik-jagran",
+      "name": "Dainik Jagran",
+      "folder": "dainik-jagran",
+      "order": 9,
+      "images": [
+        {
+          "id": "clients-dainik-jagran-image-j1-1-jpg",
+          "src": "/clients/dainik-jagran/image/j1 (1).jpg",
+          "title": "j1 (1)",
+          "filename": "j1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dainik-jagran-image-j1-2-jpg",
+          "src": "/clients/dainik-jagran/image/j1 (2).jpg",
+          "title": "j1 (2)",
+          "filename": "j1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dainik-jagran-image-j1-3-jpg",
+          "src": "/clients/dainik-jagran/image/j1 (3).jpg",
+          "title": "j1 (3)",
+          "filename": "j1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dainik-jagran-image-j1-4-jpg",
+          "src": "/clients/dainik-jagran/image/j1 (4).jpg",
+          "title": "j1 (4)",
+          "filename": "j1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 4,
+      "videoCount": 0,
+      "featured": false,
+      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "dev-raha-resort",
+      "name": "Dev Raha Resort",
+      "folder": "dev-raha-resort",
+      "order": 10,
+      "images": [
+        {
+          "id": "clients-dev-raha-resort-image-d1-1-jpeg",
+          "src": "/clients/dev-raha-resort/image/d1 (1).jpeg",
+          "title": "d1 (1)",
+          "filename": "d1 (1).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dev-raha-resort-image-d1-1-jpg",
+          "src": "/clients/dev-raha-resort/image/d1 (1).jpg",
+          "title": "d1 (1)",
+          "filename": "d1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dev-raha-resort-image-d1-2-jpeg",
+          "src": "/clients/dev-raha-resort/image/d1 (2).jpeg",
+          "title": "d1 (2)",
+          "filename": "d1 (2).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dev-raha-resort-image-d1-2-jpg",
+          "src": "/clients/dev-raha-resort/image/d1 (2).jpg",
+          "title": "d1 (2)",
+          "filename": "d1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dev-raha-resort-image-d1-3-jpg",
+          "src": "/clients/dev-raha-resort/image/d1 (3).jpg",
+          "title": "d1 (3)",
+          "filename": "d1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-dev-raha-resort-image-d1-4-jpg",
+          "src": "/clients/dev-raha-resort/image/d1 (4).jpg",
+          "title": "d1 (4)",
+          "filename": "d1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-dev-raha-resort-video-whatsapp-video-2026-06-12-at-10-59-35-am-mp4",
+          "src": "/clients/dev-raha-resort/video/WhatsApp Video 2026-06-12 at 10.59.35 AM.mp4",
+          "title": "WhatsApp Video 2026-06-12 at 10.59.35 AM",
+          "filename": "WhatsApp Video 2026-06-12 at 10.59.35 AM.mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        }
+      ],
+      "imageCount": 6,
+      "videoCount": 1,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:16:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "hotel-sunrise",
+      "name": "Hotel Sunrise",
+      "folder": "hotel-sunrise",
+      "order": 11,
+      "images": [
+        {
+          "id": "clients-hotel-sunrise-image-h-1-jpg",
+          "src": "/clients/hotel-sunrise/image/h (1).jpg",
+          "title": "h (1)",
+          "filename": "h (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-image-h-2-jpg",
+          "src": "/clients/hotel-sunrise/image/h (2).jpg",
+          "title": "h (2)",
+          "filename": "h (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-image-h-3-jpg",
+          "src": "/clients/hotel-sunrise/image/h (3).jpg",
+          "title": "h (3)",
+          "filename": "h (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-image-h-4-jpg",
+          "src": "/clients/hotel-sunrise/image/h (4).jpg",
+          "title": "h (4)",
+          "filename": "h (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-image-h-5-jpg",
+          "src": "/clients/hotel-sunrise/image/h (5).jpg",
+          "title": "h (5)",
+          "filename": "h (5).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-hotel-sunrise-video-h1-mp4",
+          "src": "/clients/hotel-sunrise/video/h1.mp4",
+          "title": "h1",
+          "filename": "h1.mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-video-h2-mp4",
+          "src": "/clients/hotel-sunrise/video/h2.mp4",
+          "title": "h2",
+          "filename": "h2.mp4",
+          "addedAt": "2026-06-17T10:17:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-video-h3-mp4",
+          "src": "/clients/hotel-sunrise/video/h3.mp4",
+          "title": "h3",
+          "filename": "h3.mp4",
+          "addedAt": "2026-06-17T10:17:00.000Z"
+        },
+        {
+          "id": "clients-hotel-sunrise-video-h4-mp4",
+          "src": "/clients/hotel-sunrise/video/h4.mp4",
+          "title": "h4",
+          "filename": "h4.mp4",
+          "addedAt": "2026-06-17T10:17:00.000Z"
+        }
+      ],
+      "imageCount": 5,
+      "videoCount": 4,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:17:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "kitchen-galleria",
+      "name": "Kitchen Galleria",
+      "folder": "kitchen-galleria",
+      "order": 12,
+      "images": [
+        {
+          "id": "clients-kitchen-galleria-image-kg1-1-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (1).jpg",
+          "title": "kg1 (1)",
+          "filename": "kg1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-2-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (2).jpg",
+          "title": "kg1 (2)",
+          "filename": "kg1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-3-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (3).jpg",
+          "title": "kg1 (3)",
+          "filename": "kg1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-4-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (4).jpg",
+          "title": "kg1 (4)",
+          "filename": "kg1 (4).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-5-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (5).jpg",
+          "title": "kg1 (5)",
+          "filename": "kg1 (5).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-6-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (6).jpg",
+          "title": "kg1 (6)",
+          "filename": "kg1 (6).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-7-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (7).jpg",
+          "title": "kg1 (7)",
+          "filename": "kg1 (7).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-image-kg1-8-jpg",
+          "src": "/clients/kitchen-galleria/image/kg1 (8).jpg",
+          "title": "kg1 (8)",
+          "filename": "kg1 (8).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 8,
+      "videoCount": 0,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "ekantam",
+      "name": "Ekantam",
+      "folder": "ekantam",
+      "order": 13,
+      "images": [
+        {
+          "id": "clients-ekantam-image-e1-1-jpg",
+          "src": "/clients/ekantam/image/e1 (1).jpg",
+          "title": "e1 (1)",
+          "filename": "e1 (1).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ekantam-image-e1-2-jpg",
+          "src": "/clients/ekantam/image/e1 (2).jpg",
+          "title": "e1 (2)",
+          "filename": "e1 (2).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-ekantam-image-e1-3-jpg",
+          "src": "/clients/ekantam/image/e1 (3).jpg",
+          "title": "e1 (3)",
+          "filename": "e1 (3).jpg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-ekantam-video-ek1-1-mp4",
+          "src": "/clients/ekantam/video/ek1 (1).mp4",
+          "title": "ek1 (1)",
+          "filename": "ek1 (1).mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-ekantam-video-ek1-2-mp4",
+          "src": "/clients/ekantam/video/ek1 (2).mp4",
+          "title": "ek1 (2)",
+          "filename": "ek1 (2).mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        },
+        {
+          "id": "clients-ekantam-video-ek1-3-mp4",
+          "src": "/clients/ekantam/video/ek1 (3).mp4",
+          "title": "ek1 (3)",
+          "filename": "ek1 (3).mp4",
+          "addedAt": "2026-06-17T10:16:00.000Z"
+        }
+      ],
+      "imageCount": 3,
+      "videoCount": 3,
+      "featured": true,
+      "lastUpdated": "2026-06-17T10:16:00.000Z",
+      "type": "client"
+    },
+    {
+      "id": "homestay",
+      "name": "Homestay",
+      "folder": "homestay",
+      "order": 15,
+      "images": [
+        {
+          "id": "clients-homestay-image-h1-1-jpeg",
+          "src": "/clients/homestay/image/h1 (1).jpeg",
+          "title": "h1 (1)",
+          "filename": "h1 (1).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-homestay-image-h1-2-jpeg",
+          "src": "/clients/homestay/image/h1 (2).jpeg",
+          "title": "h1 (2)",
+          "filename": "h1 (2).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-homestay-image-h1-3-jpeg",
+          "src": "/clients/homestay/image/h1 (3).jpeg",
+          "title": "h1 (3)",
+          "filename": "h1 (3).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        },
+        {
+          "id": "clients-homestay-image-h1-4-jpeg",
+          "src": "/clients/homestay/image/h1 (4).jpeg",
+          "title": "h1 (4)",
+          "filename": "h1 (4).jpeg",
+          "addedAt": "2026-06-17T10:15:00.000Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 4,
+      "videoCount": 0,
+      "featured": false,
+      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "type": "client"
+    }
+  ],
+  "categories": [
+    {
+      "id": "apparel",
+      "name": "Apparel",
+      "folder": "Apparel",
+      "order": 0,
+      "images": [
+        {
+          "id": "category-apparel-image-s1-jpeg",
+          "src": "/category/Apparel/image/s1.jpeg",
+          "title": "s1",
+          "filename": "s1.jpeg",
+          "addedAt": "2024-11-29T17:51:47.841Z"
+        },
+        {
+          "id": "category-apparel-image-s2-jpeg",
+          "src": "/category/Apparel/image/s2.jpeg",
+          "title": "s2",
+          "filename": "s2.jpeg",
+          "addedAt": "2024-11-29T17:51:47.623Z"
+        },
+        {
+          "id": "category-apparel-image-s3-jpeg",
+          "src": "/category/Apparel/image/s3.jpeg",
+          "title": "s3",
+          "filename": "s3.jpeg",
+          "addedAt": "2024-11-29T17:51:47.706Z"
+        },
+        {
+          "id": "category-apparel-image-s4-jpeg",
+          "src": "/category/Apparel/image/s4.jpeg",
+          "title": "s4",
+          "filename": "s4.jpeg",
+          "addedAt": "2024-11-29T17:51:47.904Z"
+        },
+        {
+          "id": "category-apparel-image-s5-jpeg",
+          "src": "/category/Apparel/image/s5.jpeg",
+          "title": "s5",
+          "filename": "s5.jpeg",
+          "addedAt": "2024-11-29T17:51:47.586Z"
+        },
+        {
+          "id": "category-apparel-image-s6-jpeg",
+          "src": "/category/Apparel/image/s6.jpeg",
+          "title": "s6",
+          "filename": "s6.jpeg",
+          "addedAt": "2024-11-29T17:51:47.873Z"
+        },
+        {
+          "id": "category-apparel-image-s7-jpeg",
+          "src": "/category/Apparel/image/s7.jpeg",
+          "title": "s7",
+          "filename": "s7.jpeg",
+          "addedAt": "2024-11-29T17:51:47.739Z"
+        },
+        {
+          "id": "category-apparel-image-s8-jpeg",
+          "src": "/category/Apparel/image/s8.jpeg",
+          "title": "s8",
+          "filename": "s8.jpeg",
+          "addedAt": "2024-11-29T17:51:47.810Z"
+        },
+        {
+          "id": "category-apparel-image-s9-jpeg",
+          "src": "/category/Apparel/image/s9.jpeg",
+          "title": "s9",
+          "filename": "s9.jpeg",
+          "addedAt": "2024-11-29T17:51:47.776Z"
+        },
+        {
+          "id": "category-apparel-image-s10-jpeg",
+          "src": "/category/Apparel/image/s10.jpeg",
+          "title": "s10",
+          "filename": "s10.jpeg",
+          "addedAt": "2024-11-29T17:51:47.656Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 10,
+      "videoCount": 0,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:51:47.904Z",
+      "type": "category"
+    },
+    {
+      "id": "astroglogy",
+      "name": "Astroglogy",
+      "folder": "Astroglogy",
+      "order": 1,
+      "images": [],
+      "videos": [
+        {
+          "id": "category-astroglogy-video-astropandit-v-1-mp4",
+          "src": "/category/Astroglogy/video/Astropandit V (1).mp4",
+          "title": "Astropandit V (1)",
+          "filename": "Astropandit V (1).mp4",
+          "addedAt": "2024-11-29T17:51:59.319Z"
+        }
+      ],
+      "imageCount": 0,
+      "videoCount": 1,
+      "featured": false,
+      "lastUpdated": "2024-11-29T17:51:59.319Z",
+      "type": "category"
+    },
+    {
+      "id": "ayurveda",
+      "name": "Ayurveda",
+      "folder": "Ayurveda",
+      "order": 2,
+      "images": [
+        {
+          "id": "category-ayurveda-image-a1-jpeg",
+          "src": "/category/Ayurveda/image/a1.jpeg",
+          "title": "a1",
+          "filename": "a1.jpeg",
+          "addedAt": "2024-11-24T07:08:55.171Z"
+        },
+        {
+          "id": "category-ayurveda-image-a2-jpeg",
+          "src": "/category/Ayurveda/image/a2.jpeg",
+          "title": "a2",
+          "filename": "a2.jpeg",
+          "addedAt": "2024-11-24T07:08:55.155Z"
+        },
+        {
+          "id": "category-ayurveda-image-a3-jpeg",
+          "src": "/category/Ayurveda/image/a3.jpeg",
+          "title": "a3",
+          "filename": "a3.jpeg",
+          "addedAt": "2024-11-24T07:08:55.167Z"
+        },
+        {
+          "id": "category-ayurveda-image-a4-jpeg",
+          "src": "/category/Ayurveda/image/a4.jpeg",
+          "title": "a4",
+          "filename": "a4.jpeg",
+          "addedAt": "2024-11-24T07:08:55.123Z"
+        },
+        {
+          "id": "category-ayurveda-image-a5-jpeg",
+          "src": "/category/Ayurveda/image/a5.jpeg",
+          "title": "a5",
+          "filename": "a5.jpeg",
+          "addedAt": "2024-11-24T07:08:55.104Z"
+        },
+        {
+          "id": "category-ayurveda-image-a6-jpeg",
+          "src": "/category/Ayurveda/image/a6.jpeg",
+          "title": "a6",
+          "filename": "a6.jpeg",
+          "addedAt": "2024-11-24T07:08:55.133Z"
+        },
+        {
+          "id": "category-ayurveda-image-a7-jpeg",
+          "src": "/category/Ayurveda/image/a7.jpeg",
+          "title": "a7",
+          "filename": "a7.jpeg",
+          "addedAt": "2024-11-24T07:08:55.143Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-ayurveda-video-232-mp4",
+          "src": "/category/Ayurveda/video/232.mp4",
+          "title": "232",
+          "filename": "232.mp4",
+          "addedAt": "2024-11-29T17:52:08.323Z"
+        },
+        {
+          "id": "category-ayurveda-video-233-mp4",
+          "src": "/category/Ayurveda/video/233.mp4",
+          "title": "233",
+          "filename": "233.mp4",
+          "addedAt": "2024-11-29T17:52:08.240Z"
+        },
+        {
+          "id": "category-ayurveda-video-234-mp4",
+          "src": "/category/Ayurveda/video/234.mp4",
+          "title": "234",
+          "filename": "234.mp4",
+          "addedAt": "2024-11-29T17:52:08.210Z"
+        }
+      ],
+      "imageCount": 7,
+      "videoCount": 3,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:52:08.323Z",
+      "type": "category"
+    },
+    {
+      "id": "cosmetics",
+      "name": "Cosmetics",
+      "folder": "Cosmetics",
+      "order": 3,
+      "images": [
+        {
+          "id": "category-cosmetics-image-c1-jpeg",
+          "src": "/category/Cosmetics/image/c1.jpeg",
+          "title": "c1",
+          "filename": "c1.jpeg",
+          "addedAt": "2024-11-24T07:08:55.247Z"
+        },
+        {
+          "id": "category-cosmetics-image-c2-jpeg",
+          "src": "/category/Cosmetics/image/c2.jpeg",
+          "title": "c2",
+          "filename": "c2.jpeg",
+          "addedAt": "2024-11-24T07:08:55.257Z"
+        },
+        {
+          "id": "category-cosmetics-image-c3-jpeg",
+          "src": "/category/Cosmetics/image/c3.jpeg",
+          "title": "c3",
+          "filename": "c3.jpeg",
+          "addedAt": "2024-11-24T07:08:55.191Z"
+        },
+        {
+          "id": "category-cosmetics-image-c4-jpeg",
+          "src": "/category/Cosmetics/image/c4.jpeg",
+          "title": "c4",
+          "filename": "c4.jpeg",
+          "addedAt": "2024-11-24T07:08:55.291Z"
+        },
+        {
+          "id": "category-cosmetics-image-c5-jpeg",
+          "src": "/category/Cosmetics/image/c5.jpeg",
+          "title": "c5",
+          "filename": "c5.jpeg",
+          "addedAt": "2024-11-24T07:08:55.278Z"
+        },
+        {
+          "id": "category-cosmetics-image-c6-jpeg",
+          "src": "/category/Cosmetics/image/c6.jpeg",
+          "title": "c6",
+          "filename": "c6.jpeg",
+          "addedAt": "2024-11-24T07:08:55.217Z"
+        },
+        {
+          "id": "category-cosmetics-image-c7-jpeg",
+          "src": "/category/Cosmetics/image/c7.jpeg",
+          "title": "c7",
+          "filename": "c7.jpeg",
+          "addedAt": "2024-11-24T07:08:55.202Z"
+        },
+        {
+          "id": "category-cosmetics-image-c8-jpeg",
+          "src": "/category/Cosmetics/image/c8.jpeg",
+          "title": "c8",
+          "filename": "c8.jpeg",
+          "addedAt": "2024-11-24T07:08:55.231Z"
+        },
+        {
+          "id": "category-cosmetics-image-c9-jpeg",
+          "src": "/category/Cosmetics/image/c9.jpeg",
+          "title": "c9",
+          "filename": "c9.jpeg",
+          "addedAt": "2024-11-24T07:08:55.215Z"
+        },
+        {
+          "id": "category-cosmetics-image-c10-jpeg",
+          "src": "/category/Cosmetics/image/c10.jpeg",
+          "title": "c10",
+          "filename": "c10.jpeg",
+          "addedAt": "2024-11-24T07:08:55.262Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-cosmetics-video-11-mp4",
+          "src": "/category/Cosmetics/video/11.mp4",
+          "title": "11",
+          "filename": "11.mp4",
+          "addedAt": "2024-11-29T17:52:20.940Z"
+        },
+        {
+          "id": "category-cosmetics-video-12-mp4",
+          "src": "/category/Cosmetics/video/12.mp4",
+          "title": "12",
+          "filename": "12.mp4",
+          "addedAt": "2024-11-29T17:52:21.183Z"
+        },
+        {
+          "id": "category-cosmetics-video-13-mp4",
+          "src": "/category/Cosmetics/video/13.mp4",
+          "title": "13",
+          "filename": "13.mp4",
+          "addedAt": "2024-11-29T17:52:21.440Z"
+        }
+      ],
+      "imageCount": 10,
+      "videoCount": 3,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:52:21.440Z",
+      "type": "category"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "folder": "Education",
+      "order": 4,
+      "images": [
+        {
+          "id": "category-education-image-e1-jpeg",
+          "src": "/category/Education/image/e1.jpeg",
+          "title": "e1",
+          "filename": "e1.jpeg",
+          "addedAt": "2024-11-29T17:52:28.907Z"
+        },
+        {
+          "id": "category-education-image-e2-jpeg",
+          "src": "/category/Education/image/e2.jpeg",
+          "title": "e2",
+          "filename": "e2.jpeg",
+          "addedAt": "2024-11-29T17:52:28.865Z"
+        },
+        {
+          "id": "category-education-image-e3-jpeg",
+          "src": "/category/Education/image/e3.jpeg",
+          "title": "e3",
+          "filename": "e3.jpeg",
+          "addedAt": "2024-11-29T17:52:28.956Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-education-video-11-mp4",
+          "src": "/category/Education/video/11.mp4",
+          "title": "11",
+          "filename": "11.mp4",
+          "addedAt": "2024-11-29T17:52:29.880Z"
+        },
+        {
+          "id": "category-education-video-12-mp4",
+          "src": "/category/Education/video/12.mp4",
+          "title": "12",
+          "filename": "12.mp4",
+          "addedAt": "2024-11-29T17:52:29.045Z"
+        },
+        {
+          "id": "category-education-video-13-mp4",
+          "src": "/category/Education/video/13.mp4",
+          "title": "13",
+          "filename": "13.mp4",
+          "addedAt": "2024-11-29T17:52:29.616Z"
+        },
+        {
+          "id": "category-education-video-14-mp4",
+          "src": "/category/Education/video/14.mp4",
+          "title": "14",
+          "filename": "14.mp4",
+          "addedAt": "2024-11-29T17:52:30.730Z"
+        }
+      ],
+      "imageCount": 3,
+      "videoCount": 4,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:52:30.730Z",
+      "type": "category"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "folder": "Fashion",
+      "order": 5,
+      "images": [
+        {
+          "id": "category-fashion-image-f1-jpeg",
+          "src": "/category/Fashion/image/f1.jpeg",
+          "title": "f1",
+          "filename": "f1.jpeg",
+          "addedAt": "2024-11-24T07:08:55.397Z"
+        },
+        {
+          "id": "category-fashion-image-f2-jpeg",
+          "src": "/category/Fashion/image/f2.jpeg",
+          "title": "f2",
+          "filename": "f2.jpeg",
+          "addedAt": "2024-11-24T07:08:55.374Z"
+        },
+        {
+          "id": "category-fashion-image-f3-jpeg",
+          "src": "/category/Fashion/image/f3.jpeg",
+          "title": "f3",
+          "filename": "f3.jpeg",
+          "addedAt": "2024-11-24T07:08:55.333Z"
+        },
+        {
+          "id": "category-fashion-image-f4-jpeg",
+          "src": "/category/Fashion/image/f4.jpeg",
+          "title": "f4",
+          "filename": "f4.jpeg",
+          "addedAt": "2024-11-24T07:08:55.408Z"
+        },
+        {
+          "id": "category-fashion-image-f5-jpeg",
+          "src": "/category/Fashion/image/f5.jpeg",
+          "title": "f5",
+          "filename": "f5.jpeg",
+          "addedAt": "2024-11-24T07:08:55.342Z"
+        },
+        {
+          "id": "category-fashion-image-f6-jpeg",
+          "src": "/category/Fashion/image/f6.jpeg",
+          "title": "f6",
+          "filename": "f6.jpeg",
+          "addedAt": "2024-11-24T07:08:55.358Z"
+        },
+        {
+          "id": "category-fashion-image-f7-jpeg",
+          "src": "/category/Fashion/image/f7.jpeg",
+          "title": "f7",
+          "filename": "f7.jpeg",
+          "addedAt": "2024-11-24T07:08:55.386Z"
+        },
+        {
+          "id": "category-fashion-image-f8-jpeg",
+          "src": "/category/Fashion/image/f8.jpeg",
+          "title": "f8",
+          "filename": "f8.jpeg",
+          "addedAt": "2024-11-24T07:08:55.310Z"
+        },
+        {
+          "id": "category-fashion-image-f9-jpeg",
+          "src": "/category/Fashion/image/f9.jpeg",
+          "title": "f9",
+          "filename": "f9.jpeg",
+          "addedAt": "2024-11-24T07:08:55.366Z"
+        },
+        {
+          "id": "category-fashion-image-f10-jpeg",
+          "src": "/category/Fashion/image/f10.jpeg",
+          "title": "f10",
+          "filename": "f10.jpeg",
+          "addedAt": "2024-11-24T07:08:55.322Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-fashion-video-1-mp4",
+          "src": "/category/Fashion/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:52:43.010Z"
+        },
+        {
+          "id": "category-fashion-video-2-mp4",
+          "src": "/category/Fashion/video/2.mp4",
+          "title": "2",
+          "filename": "2.mp4",
+          "addedAt": "2024-11-29T17:52:43.295Z"
+        },
+        {
+          "id": "category-fashion-video-3-mp4",
+          "src": "/category/Fashion/video/3.mp4",
+          "title": "3",
+          "filename": "3.mp4",
+          "addedAt": "2024-11-29T17:52:43.211Z"
+        },
+        {
+          "id": "category-fashion-video-4-mp4",
+          "src": "/category/Fashion/video/4.mp4",
+          "title": "4",
+          "filename": "4.mp4",
+          "addedAt": "2024-11-29T17:52:43.256Z"
+        },
+        {
+          "id": "category-fashion-video-5-mp4",
+          "src": "/category/Fashion/video/5.mp4",
+          "title": "5",
+          "filename": "5.mp4",
+          "addedAt": "2024-11-29T17:52:43.147Z"
+        },
+        {
+          "id": "category-fashion-video-6-mp4",
+          "src": "/category/Fashion/video/6.mp4",
+          "title": "6",
+          "filename": "6.mp4",
+          "addedAt": "2024-11-29T17:52:43.084Z"
+        },
+        {
+          "id": "category-fashion-video-7-mp4",
+          "src": "/category/Fashion/video/7.mp4",
+          "title": "7",
+          "filename": "7.mp4",
+          "addedAt": "2024-11-29T17:52:42.248Z"
+        },
+        {
+          "id": "category-fashion-video-8-mp4",
+          "src": "/category/Fashion/video/8.mp4",
+          "title": "8",
+          "filename": "8.mp4",
+          "addedAt": "2024-11-29T17:52:42.951Z"
+        },
+        {
+          "id": "category-fashion-video-9-mp4",
+          "src": "/category/Fashion/video/9.mp4",
+          "title": "9",
+          "filename": "9.mp4",
+          "addedAt": "2024-11-29T17:52:43.805Z"
+        }
+      ],
+      "imageCount": 10,
+      "videoCount": 9,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:52:43.805Z",
+      "type": "category"
+    },
+    {
+      "id": "home-decor",
+      "name": "Home Decor",
+      "folder": "Home Decor",
+      "order": 6,
+      "images": [
+        {
+          "id": "category-home-decor-image-h1-jpeg",
+          "src": "/category/Home Decor/image/h1.jpeg",
+          "title": "h1",
+          "filename": "h1.jpeg",
+          "addedAt": "2024-11-29T17:52:57.205Z"
+        },
+        {
+          "id": "category-home-decor-image-h2-jpeg",
+          "src": "/category/Home Decor/image/h2.jpeg",
+          "title": "h2",
+          "filename": "h2.jpeg",
+          "addedAt": "2024-11-29T17:52:57.271Z"
+        },
+        {
+          "id": "category-home-decor-image-h3-jpeg",
+          "src": "/category/Home Decor/image/h3.jpeg",
+          "title": "h3",
+          "filename": "h3.jpeg",
+          "addedAt": "2024-11-29T17:52:57.171Z"
+        },
+        {
+          "id": "category-home-decor-image-h4-jpeg",
+          "src": "/category/Home Decor/image/h4.jpeg",
+          "title": "h4",
+          "filename": "h4.jpeg",
+          "addedAt": "2024-11-29T17:52:57.241Z"
+        },
+        {
+          "id": "category-home-decor-image-h5-jpeg",
+          "src": "/category/Home Decor/image/h5.jpeg",
+          "title": "h5",
+          "filename": "h5.jpeg",
+          "addedAt": "2024-11-29T17:52:57.301Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-home-decor-video-1-mp4",
+          "src": "/category/Home Decor/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:52:57.396Z"
+        },
+        {
+          "id": "category-home-decor-video-2-mp4",
+          "src": "/category/Home Decor/video/2.mp4",
+          "title": "2",
+          "filename": "2.mp4",
+          "addedAt": "2024-11-29T17:52:57.952Z"
+        }
+      ],
+      "imageCount": 5,
+      "videoCount": 2,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:52:57.952Z",
+      "type": "category"
+    },
+    {
+      "id": "jewellery",
+      "name": "Jewellery",
+      "folder": "Jewellery",
+      "order": 7,
+      "images": [
+        {
+          "id": "category-jewellery-image-j1-jpeg",
+          "src": "/category/Jewellery/image/j1.jpeg",
+          "title": "j1",
+          "filename": "j1.jpeg",
+          "addedAt": "2024-11-29T17:53:06.531Z"
+        },
+        {
+          "id": "category-jewellery-image-j2-jpeg",
+          "src": "/category/Jewellery/image/j2.jpeg",
+          "title": "j2",
+          "filename": "j2.jpeg",
+          "addedAt": "2024-11-29T17:53:06.327Z"
+        },
+        {
+          "id": "category-jewellery-image-j3-jpeg",
+          "src": "/category/Jewellery/image/j3.jpeg",
+          "title": "j3",
+          "filename": "j3.jpeg",
+          "addedAt": "2024-11-29T17:53:06.621Z"
+        },
+        {
+          "id": "category-jewellery-image-j4-jpeg",
+          "src": "/category/Jewellery/image/j4.jpeg",
+          "title": "j4",
+          "filename": "j4.jpeg",
+          "addedAt": "2024-11-29T17:53:06.591Z"
+        },
+        {
+          "id": "category-jewellery-image-j5-jpeg",
+          "src": "/category/Jewellery/image/j5.jpeg",
+          "title": "j5",
+          "filename": "j5.jpeg",
+          "addedAt": "2024-11-29T17:53:06.431Z"
+        },
+        {
+          "id": "category-jewellery-image-j6-jpeg",
+          "src": "/category/Jewellery/image/j6.jpeg",
+          "title": "j6",
+          "filename": "j6.jpeg",
+          "addedAt": "2024-11-29T17:53:06.397Z"
+        },
+        {
+          "id": "category-jewellery-image-j7-jpeg",
+          "src": "/category/Jewellery/image/j7.jpeg",
+          "title": "j7",
+          "filename": "j7.jpeg",
+          "addedAt": "2024-11-29T17:53:06.292Z"
+        },
+        {
+          "id": "category-jewellery-image-j8-jpeg",
+          "src": "/category/Jewellery/image/j8.jpeg",
+          "title": "j8",
+          "filename": "j8.jpeg",
+          "addedAt": "2024-11-29T17:53:06.562Z"
+        },
+        {
+          "id": "category-jewellery-image-j9-jpeg",
+          "src": "/category/Jewellery/image/j9.jpeg",
+          "title": "j9",
+          "filename": "j9.jpeg",
+          "addedAt": "2024-11-29T17:53:06.464Z"
+        },
+        {
+          "id": "category-jewellery-image-j10-jpeg",
+          "src": "/category/Jewellery/image/j10.jpeg",
+          "title": "j10",
+          "filename": "j10.jpeg",
+          "addedAt": "2024-11-29T17:53:06.496Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-jewellery-video-1-mp4",
+          "src": "/category/Jewellery/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:53:06.965Z"
+        }
+      ],
+      "imageCount": 10,
+      "videoCount": 1,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:53:06.965Z",
+      "type": "category"
+    },
+    {
+      "id": "medical",
+      "name": "Medical",
+      "folder": "Medical",
+      "order": 8,
+      "images": [
+        {
+          "id": "category-medical-image-m1-jpeg",
+          "src": "/category/Medical/image/m1.jpeg",
+          "title": "m1",
+          "filename": "m1.jpeg",
+          "addedAt": "2024-11-29T17:53:15.832Z"
+        },
+        {
+          "id": "category-medical-image-m2-jpeg",
+          "src": "/category/Medical/image/m2.jpeg",
+          "title": "m2",
+          "filename": "m2.jpeg",
+          "addedAt": "2024-11-29T17:53:15.654Z"
+        },
+        {
+          "id": "category-medical-image-m3-jpeg",
+          "src": "/category/Medical/image/m3.jpeg",
+          "title": "m3",
+          "filename": "m3.jpeg",
+          "addedAt": "2024-11-29T17:53:15.619Z"
+        },
+        {
+          "id": "category-medical-image-m4-jpeg",
+          "src": "/category/Medical/image/m4.jpeg",
+          "title": "m4",
+          "filename": "m4.jpeg",
+          "addedAt": "2024-11-29T17:53:15.797Z"
+        },
+        {
+          "id": "category-medical-image-m5-jpeg",
+          "src": "/category/Medical/image/m5.jpeg",
+          "title": "m5",
+          "filename": "m5.jpeg",
+          "addedAt": "2024-11-29T17:53:15.769Z"
+        },
+        {
+          "id": "category-medical-image-m6-jpeg",
+          "src": "/category/Medical/image/m6.jpeg",
+          "title": "m6",
+          "filename": "m6.jpeg",
+          "addedAt": "2024-11-29T17:53:15.725Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-medical-video-1-mp4",
+          "src": "/category/Medical/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:53:16.248Z"
+        },
+        {
+          "id": "category-medical-video-2-mp4",
+          "src": "/category/Medical/video/2.mp4",
+          "title": "2",
+          "filename": "2.mp4",
+          "addedAt": "2024-11-29T17:53:15.942Z"
+        },
+        {
+          "id": "category-medical-video-3-mp4",
+          "src": "/category/Medical/video/3.mp4",
+          "title": "3",
+          "filename": "3.mp4",
+          "addedAt": "2024-11-29T17:53:16.059Z"
+        },
+        {
+          "id": "category-medical-video-4-mp4",
+          "src": "/category/Medical/video/4.mp4",
+          "title": "4",
+          "filename": "4.mp4",
+          "addedAt": "2024-11-29T17:53:16.176Z"
+        }
+      ],
+      "imageCount": 6,
+      "videoCount": 4,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:53:16.248Z",
+      "type": "category"
+    },
+    {
+      "id": "men-s-fashion",
+      "name": "Men's Fashion",
+      "folder": "Men's Fashion",
+      "order": 9,
+      "images": [
+        {
+          "id": "category-men-s-fashion-image-s1-jpeg",
+          "src": "/category/Men's Fashion/image/s1.jpeg",
+          "title": "s1",
+          "filename": "s1.jpeg",
+          "addedAt": "2024-11-24T08:22:57.535Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s2-jpeg",
+          "src": "/category/Men's Fashion/image/s2.jpeg",
+          "title": "s2",
+          "filename": "s2.jpeg",
+          "addedAt": "2024-11-24T08:22:57.493Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s3-jpeg",
+          "src": "/category/Men's Fashion/image/s3.jpeg",
+          "title": "s3",
+          "filename": "s3.jpeg",
+          "addedAt": "2024-11-24T08:22:57.418Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s4-jpeg",
+          "src": "/category/Men's Fashion/image/s4.jpeg",
+          "title": "s4",
+          "filename": "s4.jpeg",
+          "addedAt": "2024-11-24T08:22:57.545Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s5-jpeg",
+          "src": "/category/Men's Fashion/image/s5.jpeg",
+          "title": "s5",
+          "filename": "s5.jpeg",
+          "addedAt": "2024-11-24T08:22:57.307Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s6-jpeg",
+          "src": "/category/Men's Fashion/image/s6.jpeg",
+          "title": "s6",
+          "filename": "s6.jpeg",
+          "addedAt": "2024-11-24T08:22:57.286Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s7-jpeg",
+          "src": "/category/Men's Fashion/image/s7.jpeg",
+          "title": "s7",
+          "filename": "s7.jpeg",
+          "addedAt": "2024-11-24T08:22:57.513Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s8-jpeg",
+          "src": "/category/Men's Fashion/image/s8.jpeg",
+          "title": "s8",
+          "filename": "s8.jpeg",
+          "addedAt": "2024-11-24T08:22:57.466Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s9-jpeg",
+          "src": "/category/Men's Fashion/image/s9.jpeg",
+          "title": "s9",
+          "filename": "s9.jpeg",
+          "addedAt": "2024-11-24T08:22:57.448Z"
+        },
+        {
+          "id": "category-men-s-fashion-image-s10-jpeg",
+          "src": "/category/Men's Fashion/image/s10.jpeg",
+          "title": "s10",
+          "filename": "s10.jpeg",
+          "addedAt": "2024-11-24T08:22:57.402Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 10,
+      "videoCount": 0,
+      "featured": true,
+      "lastUpdated": "2024-11-24T08:22:57.545Z",
+      "type": "category"
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "folder": "Restaurant",
+      "order": 10,
+      "images": [],
+      "videos": [
+        {
+          "id": "category-restaurant-video-1-mp4",
+          "src": "/category/Restaurant/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:53:27.062Z"
+        },
+        {
+          "id": "category-restaurant-video-2-mp4",
+          "src": "/category/Restaurant/video/2.mp4",
+          "title": "2",
+          "filename": "2.mp4",
+          "addedAt": "2024-11-29T17:53:25.504Z"
+        },
+        {
+          "id": "category-restaurant-video-3-mp4",
+          "src": "/category/Restaurant/video/3.mp4",
+          "title": "3",
+          "filename": "3.mp4",
+          "addedAt": "2024-11-29T17:53:26.422Z"
+        },
+        {
+          "id": "category-restaurant-video-4-mp4",
+          "src": "/category/Restaurant/video/4.mp4",
+          "title": "4",
+          "filename": "4.mp4",
+          "addedAt": "2024-11-29T17:53:30.442Z"
+        },
+        {
+          "id": "category-restaurant-video-5-mp4",
+          "src": "/category/Restaurant/video/5.mp4",
+          "title": "5",
+          "filename": "5.mp4",
+          "addedAt": "2024-11-29T17:53:28.022Z"
+        },
+        {
+          "id": "category-restaurant-video-6-mp4",
+          "src": "/category/Restaurant/video/6.mp4",
+          "title": "6",
+          "filename": "6.mp4",
+          "addedAt": "2024-11-29T17:53:29.651Z"
+        },
+        {
+          "id": "category-restaurant-video-7-mp4",
+          "src": "/category/Restaurant/video/7.mp4",
+          "title": "7",
+          "filename": "7.mp4",
+          "addedAt": "2024-11-29T17:53:24.696Z"
+        },
+        {
+          "id": "category-restaurant-video-8-mp4",
+          "src": "/category/Restaurant/video/8.mp4",
+          "title": "8",
+          "filename": "8.mp4",
+          "addedAt": "2024-11-29T17:53:28.912Z"
+        }
+      ],
+      "imageCount": 0,
+      "videoCount": 8,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:53:30.442Z",
+      "type": "category"
+    },
+    {
+      "id": "solar-energy",
+      "name": "Solar Energy",
+      "folder": "Solar Energy",
+      "order": 11,
+      "images": [
+        {
+          "id": "category-solar-energy-image-s1-jpeg",
+          "src": "/category/Solar Energy/image/s1.jpeg",
+          "title": "s1",
+          "filename": "s1.jpeg",
+          "addedAt": "2024-11-29T17:53:40.655Z"
+        },
+        {
+          "id": "category-solar-energy-image-s2-jpeg",
+          "src": "/category/Solar Energy/image/s2.jpeg",
+          "title": "s2",
+          "filename": "s2.jpeg",
+          "addedAt": "2024-11-29T17:53:40.684Z"
+        },
+        {
+          "id": "category-solar-energy-image-s3-jpeg",
+          "src": "/category/Solar Energy/image/s3.jpeg",
+          "title": "s3",
+          "filename": "s3.jpeg",
+          "addedAt": "2024-11-29T17:53:40.554Z"
+        },
+        {
+          "id": "category-solar-energy-image-s4-jpeg",
+          "src": "/category/Solar Energy/image/s4.jpeg",
+          "title": "s4",
+          "filename": "s4.jpeg",
+          "addedAt": "2024-11-29T17:53:40.753Z"
+        },
+        {
+          "id": "category-solar-energy-image-s5-jpeg",
+          "src": "/category/Solar Energy/image/s5.jpeg",
+          "title": "s5",
+          "filename": "s5.jpeg",
+          "addedAt": "2024-11-29T17:53:40.599Z"
+        },
+        {
+          "id": "category-solar-energy-image-s6-jpeg",
+          "src": "/category/Solar Energy/image/s6.jpeg",
+          "title": "s6",
+          "filename": "s6.jpeg",
+          "addedAt": "2024-11-29T17:53:40.728Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-solar-energy-video-1-mp4",
+          "src": "/category/Solar Energy/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:53:40.803Z"
+        },
+        {
+          "id": "category-solar-energy-video-2-mp4",
+          "src": "/category/Solar Energy/video/2.mp4",
+          "title": "2",
+          "filename": "2.mp4",
+          "addedAt": "2024-11-29T17:53:40.863Z"
+        }
+      ],
+      "imageCount": 6,
+      "videoCount": 2,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:53:40.863Z",
+      "type": "category"
+    },
+    {
+      "id": "travel-tourism",
+      "name": "Travel & Tourism",
+      "folder": "Travel & Tourism",
+      "order": 12,
+      "images": [
+        {
+          "id": "category-travel-tourism-image-t1-jpeg",
+          "src": "/category/Travel & Tourism/image/t1.jpeg",
+          "title": "t1",
+          "filename": "t1.jpeg",
+          "addedAt": "2024-11-24T07:08:55.072Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t2-jpeg",
+          "src": "/category/Travel & Tourism/image/t2.jpeg",
+          "title": "t2",
+          "filename": "t2.jpeg",
+          "addedAt": "2024-11-24T07:08:55.072Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t3-jpeg",
+          "src": "/category/Travel & Tourism/image/t3.jpeg",
+          "title": "t3",
+          "filename": "t3.jpeg",
+          "addedAt": "2024-11-24T07:08:55.041Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t4-jpeg",
+          "src": "/category/Travel & Tourism/image/t4.jpeg",
+          "title": "t4",
+          "filename": "t4.jpeg",
+          "addedAt": "2024-11-24T07:08:55.005Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t5-jpeg",
+          "src": "/category/Travel & Tourism/image/t5.jpeg",
+          "title": "t5",
+          "filename": "t5.jpeg",
+          "addedAt": "2024-11-24T07:08:55.016Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t6-jpeg",
+          "src": "/category/Travel & Tourism/image/t6.jpeg",
+          "title": "t6",
+          "filename": "t6.jpeg",
+          "addedAt": "2024-11-24T07:08:55.051Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t7-jpeg",
+          "src": "/category/Travel & Tourism/image/t7.jpeg",
+          "title": "t7",
+          "filename": "t7.jpeg",
+          "addedAt": "2024-11-24T07:08:55.097Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t8-jpeg",
+          "src": "/category/Travel & Tourism/image/t8.jpeg",
+          "title": "t8",
+          "filename": "t8.jpeg",
+          "addedAt": "2024-11-24T07:08:55.029Z"
+        },
+        {
+          "id": "category-travel-tourism-image-t9-jpeg",
+          "src": "/category/Travel & Tourism/image/t9.jpeg",
+          "title": "t9",
+          "filename": "t9.jpeg",
+          "addedAt": "2024-11-24T07:08:55.057Z"
+        }
+      ],
+      "videos": [],
+      "imageCount": 9,
+      "videoCount": 0,
+      "featured": true,
+      "lastUpdated": "2024-11-24T07:08:55.097Z",
+      "type": "category"
+    },
+    {
+      "id": "vehicle",
+      "name": "Vehicle",
+      "folder": "Vehicle",
+      "order": 13,
+      "images": [
+        {
+          "id": "category-vehicle-image-v1-jpeg",
+          "src": "/category/Vehicle/image/v1.jpeg",
+          "title": "v1",
+          "filename": "v1.jpeg",
+          "addedAt": "2024-11-29T17:53:56.041Z"
+        },
+        {
+          "id": "category-vehicle-image-v2-jpeg",
+          "src": "/category/Vehicle/image/v2.jpeg",
+          "title": "v2",
+          "filename": "v2.jpeg",
+          "addedAt": "2024-11-29T17:53:55.981Z"
+        },
+        {
+          "id": "category-vehicle-image-v3-jpeg",
+          "src": "/category/Vehicle/image/v3.jpeg",
+          "title": "v3",
+          "filename": "v3.jpeg",
+          "addedAt": "2024-11-29T17:53:55.859Z"
+        },
+        {
+          "id": "category-vehicle-image-v4-jpeg",
+          "src": "/category/Vehicle/image/v4.jpeg",
+          "title": "v4",
+          "filename": "v4.jpeg",
+          "addedAt": "2024-11-29T17:53:55.763Z"
+        },
+        {
+          "id": "category-vehicle-image-v5-jpeg",
+          "src": "/category/Vehicle/image/v5.jpeg",
+          "title": "v5",
+          "filename": "v5.jpeg",
+          "addedAt": "2024-11-29T17:53:55.797Z"
+        },
+        {
+          "id": "category-vehicle-image-v6-jpeg",
+          "src": "/category/Vehicle/image/v6.jpeg",
+          "title": "v6",
+          "filename": "v6.jpeg",
+          "addedAt": "2024-11-29T17:53:56.013Z"
+        },
+        {
+          "id": "category-vehicle-image-v7-jpeg",
+          "src": "/category/Vehicle/image/v7.jpeg",
+          "title": "v7",
+          "filename": "v7.jpeg",
+          "addedAt": "2024-11-29T17:53:55.824Z"
+        },
+        {
+          "id": "category-vehicle-image-v8-jpeg",
+          "src": "/category/Vehicle/image/v8.jpeg",
+          "title": "v8",
+          "filename": "v8.jpeg",
+          "addedAt": "2024-11-29T17:53:55.913Z"
+        },
+        {
+          "id": "category-vehicle-image-v9-jpeg",
+          "src": "/category/Vehicle/image/v9.jpeg",
+          "title": "v9",
+          "filename": "v9.jpeg",
+          "addedAt": "2024-11-29T17:53:55.887Z"
+        },
+        {
+          "id": "category-vehicle-image-v10-jpeg",
+          "src": "/category/Vehicle/image/v10.jpeg",
+          "title": "v10",
+          "filename": "v10.jpeg",
+          "addedAt": "2024-11-29T17:53:55.943Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "category-vehicle-video-1-mp4",
+          "src": "/category/Vehicle/video/1.mp4",
+          "title": "1",
+          "filename": "1.mp4",
+          "addedAt": "2024-11-29T17:53:56.203Z"
+        },
+        {
+          "id": "category-vehicle-video-2-mp4",
+          "src": "/category/Vehicle/video/2.mp4",
+          "title": "2",
+          "filename": "2.mp4",
+          "addedAt": "2024-11-29T17:53:56.073Z"
+        },
+        {
+          "id": "category-vehicle-video-3-mp4",
+          "src": "/category/Vehicle/video/3.mp4",
+          "title": "3",
+          "filename": "3.mp4",
+          "addedAt": "2024-11-29T17:53:56.263Z"
+        },
+        {
+          "id": "category-vehicle-video-4-mp4",
+          "src": "/category/Vehicle/video/4.mp4",
+          "title": "4",
+          "filename": "4.mp4",
+          "addedAt": "2024-11-29T17:53:56.135Z"
+        },
+        {
+          "id": "category-vehicle-video-5-mp4",
+          "src": "/category/Vehicle/video/5.mp4",
+          "title": "5",
+          "filename": "5.mp4",
+          "addedAt": "2024-11-29T17:53:56.353Z"
+        },
+        {
+          "id": "category-vehicle-video-6-mp4",
+          "src": "/category/Vehicle/video/6.mp4",
+          "title": "6",
+          "filename": "6.mp4",
+          "addedAt": "2024-11-29T17:53:57.463Z"
+        }
+      ],
+      "imageCount": 10,
+      "videoCount": 6,
+      "featured": true,
+      "lastUpdated": "2024-11-29T17:53:57.463Z",
+      "type": "category"
+    }
+  ],
+  "stats": {
+    "totalClients": 13,
+    "totalCategories": 14,
+    "totalImages": 178,
+    "totalVideos": 75
+  }
+}

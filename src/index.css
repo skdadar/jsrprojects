@@ -3,9 +3,6 @@
 @tailwind utilities;
 
 
-@import '@fortawesome/fontawesome-free/css/all.min.css';
-
-
 @keyframes fade-in {
     from {
       opacity: 0;
