@@ -2,10 +2,10 @@ import { FaWhatsapp, FaInstagram, FaFacebook, FaYoutube, FaGlobe } from "react-i
 
 const links = [
   { href: "https://wa.link/ubdqgt", Icon: FaWhatsapp, name: "Whatsapp" },
-  { href: "https://www.instagram.com/digitma_india/", Icon: FaInstagram, name: "Instagram" },
-  { href: "https://www.facebook.com/DigitmaInfologics", Icon: FaFacebook, name: "Facebook" },
-  { href: "https://www.youtube.com/@digitmaedutech", Icon: FaYoutube, name: "Youtube" },
-  { href: "https://digitma.org/", Icon: FaGlobe, name: "Website" },
+  { href: "https://www.instagram.com/digital_wala_academy/", Icon: FaInstagram, name: "Instagram" },
+  { href: "https://www.facebook.com/DigitalWala.Ai.Academy", Icon: FaFacebook, name: "Facebook" },
+  { href: "https://www.youtube.com/@digitalwala-official", Icon: FaYoutube, name: "Youtube" },
+  { href: "https://metasoftai.in/", Icon: FaGlobe, name: "Website" },
 ];
 
 const SocialLinks = ({ className = "" }) => {
