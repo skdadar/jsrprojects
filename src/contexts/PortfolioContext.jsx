@@ -31,24 +31,47 @@ export function PortfolioProvider({ children }) {
     [setSearchParams]
   );
 
-  const loadManifest = useCallback(async () => {
-    setLoading(true);
-    setError(null);
+  const loadManifest = useCallback(async ({ silent = false } = {}) => {
+    if (!silent) {
+      setLoading(true);
+      setError(null);
+    }
     try {
       const res = await fetch(`/portfolio-manifest.json?t=${Date.now()}`);
       if (!res.ok) throw new Error("Portfolio manifest not found. Run: npm run generate-portfolio");
       const data = await res.json();
       setManifest(data);
     } catch (err) {
-      setError(err.message);
+      if (!silent) setError(err.message);
     } finally {
-      setLoading(false);
+      if (!silent) setLoading(false);
     }
   }, []);
 
   useEffect(() => {
     loadManifest();
   }, [loadManifest]);
+
+  useEffect(() => {
+    if (process.env.NODE_ENV !== "development") return undefined;
+
+    const pollManifest = async () => {
+      try {
+        const res = await fetch(`/portfolio-manifest.json?t=${Date.now()}`);
+        if (!res.ok) return;
+        const data = await res.json();
+        setManifest((prev) => {
+          if (prev?.generatedAt === data.generatedAt) return prev;
+          return data;
+        });
+      } catch {
+        // ignore transient fetch errors during polling
+      }
+    };
+
+    const intervalId = setInterval(pollManifest, 3000);
+    return () => clearInterval(intervalId);
+  }, []);
 
   const clients = useMemo(() => {
     if (!manifest?.clients) return [];

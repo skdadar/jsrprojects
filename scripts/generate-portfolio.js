@@ -3,9 +3,9 @@
  * Run: npm run generate-portfolio
  *
  * Folder structure:
- *   public/clients/{ClientName}/image/*
+ *   public/clients/{ClientName}/image/*  (or images/*)
  *   public/clients/{ClientName}/video/*
- *   public/category/{CategoryName}/image/*
+ *   public/category/{CategoryName}/image/*  (or images/*)
  *   public/category/{CategoryName}/video/*
  */
 const fs = require("fs");
@@ -24,6 +24,7 @@ const CLIENT_SERIAL_ORDER = [
   "Dr. Sourav Shukla",
   "Ground Zero",
   "IHM",
+  "IHM Dehradun",
   "Servo Hospitality",
   "Chakk 109",
   "Ausskill",
@@ -52,8 +53,9 @@ const CATEGORY_SERIAL_ORDER = [
   "Vehicle",
 ];
 
-const IMAGE_EXT = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
+const IMAGE_EXT = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif", ".jfif"]);
 const VIDEO_EXT = new Set([".mp4", ".mov", ".webm", ".avi", ".mkv"]);
+const IMAGE_DIR_NAMES = ["image", "images"];
 
 const CLIENT_ALIASES = {
   somashrooms: "Somashrooms",
@@ -61,6 +63,7 @@ const CLIENT_ALIASES = {
   "dr-sourav-shukla": "Dr. Sourav Shukla",
   "ground-zero": "Ground Zero",
   ihm: "IHM",
+  "ihm-dehradun": "IHM Dehradun",
   "servo-hospitality": "Servo Hospitality",
   ausskill: "Ausskill",
   hindustan: "Hindustan",
@@ -142,6 +145,28 @@ function scanMediaFolder(basePath, publicPrefix) {
   return { images, videos };
 }
 
+function dedupeBySrc(items) {
+  const seen = new Set();
+  return items.filter((item) => {
+    if (seen.has(item.src)) return false;
+    seen.add(item.src);
+    return true;
+  });
+}
+
+function scanImageDirs(folderPath, entryName, publicRoot) {
+  let images = [];
+
+  for (const dirName of IMAGE_DIR_NAMES) {
+    const dir = path.join(folderPath, dirName);
+    if (!fs.existsSync(dir)) continue;
+    const scanned = scanMediaFolder(dir, `${publicRoot}/${entryName}/${dirName}`);
+    images.push(...scanned.images);
+  }
+
+  return dedupeBySrc(images);
+}
+
 function scanGroupedFolder(rootDir, publicRoot, type, serialOrder, nameResolver) {
   const groups = [];
   if (!fs.existsSync(rootDir)) return groups;
@@ -152,27 +177,27 @@ function scanGroupedFolder(rootDir, publicRoot, type, serialOrder, nameResolver)
     const folderPath = path.join(rootDir, entry.name);
     const displayName = nameResolver ? nameResolver(entry.name) : entry.name;
     const id = slugify(displayName);
-    const imageDir = path.join(folderPath, "image");
     const videoDir = path.join(folderPath, "video");
+    const hasImageDirs = IMAGE_DIR_NAMES.some((dirName) =>
+      fs.existsSync(path.join(folderPath, dirName))
+    );
+    const hasVideoDir = fs.existsSync(videoDir);
 
     let images = [];
     let videos = [];
 
-    if (fs.existsSync(imageDir) || fs.existsSync(videoDir)) {
-      if (fs.existsSync(imageDir)) {
-        const scanned = scanMediaFolder(imageDir, `${publicRoot}/${entry.name}/image`);
-        images = scanned.images;
+    if (hasImageDirs || hasVideoDir) {
+      if (hasImageDirs) {
+        images = scanImageDirs(folderPath, entry.name, publicRoot);
       }
-      if (fs.existsSync(videoDir)) {
+      if (hasVideoDir) {
         const scanned = scanMediaFolder(videoDir, `${publicRoot}/${entry.name}/video`);
         videos = scanned.videos;
       }
     } else {
       const scanned = scanMediaFolder(folderPath, `${publicRoot}/${entry.name}`);
       images = scanned.images;
-      videos = scanned.videos.filter((v) => true);
       videos = scanned.videos;
-      images = scanned.images;
     }
 
     if (images.length === 0 && videos.length === 0 && type !== "category") continue;
@@ -273,7 +298,7 @@ function scanCategoriesIncludingEmpty() {
   return found.sort((a, b) => a.order - b.order || a.name.localeCompare(b.name));
 }
 
-function main() {
+function generatePortfolio() {
   migrateLegacyToClients();
   fs.mkdirSync(CLIENTS_DIR, { recursive: true });
 
@@ -309,6 +334,12 @@ function main() {
   console.log(
     `Clients: ${manifest.stats.totalClients} | Categories: ${manifest.stats.totalCategories} | Images: ${manifest.stats.totalImages} | Videos: ${manifest.stats.totalVideos}`
   );
+
+  return manifest;
 }
 
-main();
+module.exports = { generatePortfolio, CLIENTS_DIR, CATEGORY_DIR };
+
+if (require.main === module) {
+  generatePortfolio();
+}

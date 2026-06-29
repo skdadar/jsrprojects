@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T01:04:07.924Z",
+  "generatedAt": "2026-06-29T02:41:04.342Z",
   "version": 2,
   "clients": [
     {
@@ -488,18 +488,160 @@
           "addedAt": "2026-06-17T10:15:00.000Z"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "id": "clients-ground-zero-video-gz1-1-mp4",
+          "src": "/clients/ground-zero/video/gz1 (1).mp4",
+          "title": "gz1 (1)",
+          "filename": "gz1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:16.741Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-2-mp4",
+          "src": "/clients/ground-zero/video/gz1 (2).mp4",
+          "title": "gz1 (2)",
+          "filename": "gz1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:16.973Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-3-mp4",
+          "src": "/clients/ground-zero/video/gz1 (3).mp4",
+          "title": "gz1 (3)",
+          "filename": "gz1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:17.133Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-4-mp4",
+          "src": "/clients/ground-zero/video/gz1 (4).mp4",
+          "title": "gz1 (4)",
+          "filename": "gz1 (4).mp4",
+          "addedAt": "2026-06-29T02:26:17.198Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-5-mp4",
+          "src": "/clients/ground-zero/video/gz1 (5).mp4",
+          "title": "gz1 (5)",
+          "filename": "gz1 (5).mp4",
+          "addedAt": "2026-06-29T02:26:17.319Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-6-mp4",
+          "src": "/clients/ground-zero/video/gz1 (6).mp4",
+          "title": "gz1 (6)",
+          "filename": "gz1 (6).mp4",
+          "addedAt": "2026-06-29T02:26:17.647Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-7-mp4",
+          "src": "/clients/ground-zero/video/gz1 (7).mp4",
+          "title": "gz1 (7)",
+          "filename": "gz1 (7).mp4",
+          "addedAt": "2026-06-29T02:26:17.821Z"
+        },
+        {
+          "id": "clients-ground-zero-video-gz1-8-mp4",
+          "src": "/clients/ground-zero/video/gz1 (8).mp4",
+          "title": "gz1 (8)",
+          "filename": "gz1 (8).mp4",
+          "addedAt": "2026-06-29T02:26:17.907Z"
+        }
+      ],
       "imageCount": 7,
-      "videoCount": 0,
+      "videoCount": 8,
       "featured": true,
-      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "lastUpdated": "2026-06-29T02:26:17.907Z",
+      "type": "client"
+    },
+    {
+      "id": "ihm-dehradun",
+      "name": "IHM Dehradun",
+      "folder": "IHM Dehradun",
+      "order": 5,
+      "images": [
+        {
+          "id": "clients-ihm-dehradun-image-ihm1-1-jfif",
+          "src": "/clients/IHM Dehradun/image/ihm1 (1).jfif",
+          "title": "ihm1 (1)",
+          "filename": "ihm1 (1).jfif",
+          "addedAt": "2026-06-29T02:23:05.617Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-image-ihm1-2-jfif",
+          "src": "/clients/IHM Dehradun/image/ihm1 (2).jfif",
+          "title": "ihm1 (2)",
+          "filename": "ihm1 (2).jfif",
+          "addedAt": "2026-06-29T02:24:11.159Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-image-ihm1-3-jfif",
+          "src": "/clients/IHM Dehradun/image/ihm1 (3).jfif",
+          "title": "ihm1 (3)",
+          "filename": "ihm1 (3).jfif",
+          "addedAt": "2026-06-29T02:24:11.198Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-image-ihm1-4-jfif",
+          "src": "/clients/IHM Dehradun/image/ihm1 (4).jfif",
+          "title": "ihm1 (4)",
+          "filename": "ihm1 (4).jfif",
+          "addedAt": "2026-06-29T02:24:11.225Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-image-ihm1-5-jfif",
+          "src": "/clients/IHM Dehradun/image/ihm1 (5).jfif",
+          "title": "ihm1 (5)",
+          "filename": "ihm1 (5).jfif",
+          "addedAt": "2026-06-29T02:24:11.245Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": "clients-ihm-dehradun-video-ihm1-1-mp4",
+          "src": "/clients/IHM Dehradun/video/ihm1 (1).mp4",
+          "title": "ihm1 (1)",
+          "filename": "ihm1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:18.755Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-video-ihm1-2-mp4",
+          "src": "/clients/IHM Dehradun/video/ihm1 (2).mp4",
+          "title": "ihm1 (2)",
+          "filename": "ihm1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:18.802Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-video-ihm1-3-mp4",
+          "src": "/clients/IHM Dehradun/video/ihm1 (3).mp4",
+          "title": "ihm1 (3)",
+          "filename": "ihm1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:18.913Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-video-ihm1-4-mp4",
+          "src": "/clients/IHM Dehradun/video/ihm1 (4).mp4",
+          "title": "ihm1 (4)",
+          "filename": "ihm1 (4).mp4",
+          "addedAt": "2026-06-29T02:26:18.954Z"
+        },
+        {
+          "id": "clients-ihm-dehradun-video-ihm1-5-mp4",
+          "src": "/clients/IHM Dehradun/video/ihm1 (5).mp4",
+          "title": "ihm1 (5)",
+          "filename": "ihm1 (5).mp4",
+          "addedAt": "2026-06-29T02:26:19.008Z"
+        }
+      ],
+      "imageCount": 5,
+      "videoCount": 5,
+      "featured": true,
+      "lastUpdated": "2026-06-29T02:26:19.008Z",
       "type": "client"
     },
     {
       "id": "servo-hospitality",
       "name": "Servo Hospitality",
       "folder": "servo-hospitality",
-      "order": 5,
+      "order": 6,
       "images": [
         {
           "id": "clients-servo-hospitality-image-s1-1-jpg",
@@ -544,18 +686,68 @@
           "addedAt": "2026-06-17T10:16:00.000Z"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "id": "clients-servo-hospitality-video-servo1-1-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (1).mp4",
+          "title": "servo1 (1)",
+          "filename": "servo1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:19.535Z"
+        },
+        {
+          "id": "clients-servo-hospitality-video-servo1-2-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (2).mp4",
+          "title": "servo1 (2)",
+          "filename": "servo1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:19.646Z"
+        },
+        {
+          "id": "clients-servo-hospitality-video-servo1-3-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (3).mp4",
+          "title": "servo1 (3)",
+          "filename": "servo1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:19.773Z"
+        },
+        {
+          "id": "clients-servo-hospitality-video-servo1-4-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (4).mp4",
+          "title": "servo1 (4)",
+          "filename": "servo1 (4).mp4",
+          "addedAt": "2026-06-29T02:26:19.936Z"
+        },
+        {
+          "id": "clients-servo-hospitality-video-servo1-5-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (5).mp4",
+          "title": "servo1 (5)",
+          "filename": "servo1 (5).mp4",
+          "addedAt": "2026-06-29T02:26:20.107Z"
+        },
+        {
+          "id": "clients-servo-hospitality-video-servo1-6-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (6).mp4",
+          "title": "servo1 (6)",
+          "filename": "servo1 (6).mp4",
+          "addedAt": "2026-06-29T02:26:20.311Z"
+        },
+        {
+          "id": "clients-servo-hospitality-video-servo1-7-mp4",
+          "src": "/clients/servo-hospitality/video/servo1 (7).mp4",
+          "title": "servo1 (7)",
+          "filename": "servo1 (7).mp4",
+          "addedAt": "2026-06-29T02:26:20.470Z"
+        }
+      ],
       "imageCount": 6,
-      "videoCount": 0,
+      "videoCount": 7,
       "featured": true,
-      "lastUpdated": "2026-06-17T10:16:00.000Z",
+      "lastUpdated": "2026-06-29T02:26:20.470Z",
       "type": "client"
     },
     {
       "id": "ausskill",
       "name": "Ausskill",
       "folder": "ausskill",
-      "order": 7,
+      "order": 8,
       "images": [
         {
           "id": "clients-ausskill-image-aihs1-1-jpg",
@@ -586,18 +778,40 @@
           "addedAt": "2026-06-17T10:15:00.000Z"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "id": "clients-ausskill-video-aihs1-1-mp4",
+          "src": "/clients/ausskill/video/aihs1 (1).mp4",
+          "title": "aihs1 (1)",
+          "filename": "aihs1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:11.543Z"
+        },
+        {
+          "id": "clients-ausskill-video-aihs1-2-mp4",
+          "src": "/clients/ausskill/video/aihs1 (2).mp4",
+          "title": "aihs1 (2)",
+          "filename": "aihs1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:11.655Z"
+        },
+        {
+          "id": "clients-ausskill-video-aihs1-3-mp4",
+          "src": "/clients/ausskill/video/aihs1 (3).mp4",
+          "title": "aihs1 (3)",
+          "filename": "aihs1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:11.800Z"
+        }
+      ],
       "imageCount": 4,
-      "videoCount": 0,
-      "featured": false,
-      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "videoCount": 3,
+      "featured": true,
+      "lastUpdated": "2026-06-29T02:26:11.800Z",
       "type": "client"
     },
     {
       "id": "hindustan",
       "name": "Hindustan",
       "folder": "hindustan",
-      "order": 8,
+      "order": 9,
       "images": [
         {
           "id": "clients-hindustan-image-hin1-1-jpg",
@@ -639,7 +853,7 @@
       "id": "dainik-jagran",
       "name": "Dainik Jagran",
       "folder": "dainik-jagran",
-      "order": 9,
+      "order": 10,
       "images": [
         {
           "id": "clients-dainik-jagran-image-j1-1-jpg",
@@ -670,18 +884,110 @@
           "addedAt": "2026-06-17T10:15:00.000Z"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "id": "clients-dainik-jagran-video-jagran-samman-mp4",
+          "src": "/clients/dainik-jagran/video/JAGRAN SAMMAN.mp4",
+          "title": "JAGRAN SAMMAN",
+          "filename": "JAGRAN SAMMAN.mp4",
+          "addedAt": "2026-06-29T02:26:13.263Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jm1-1-mp4",
+          "src": "/clients/dainik-jagran/video/jm1 (1).mp4",
+          "title": "jm1 (1)",
+          "filename": "jm1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:13.406Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jm1-2-mp4",
+          "src": "/clients/dainik-jagran/video/jm1 (2).mp4",
+          "title": "jm1 (2)",
+          "filename": "jm1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:13.596Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jm1-3-mp4",
+          "src": "/clients/dainik-jagran/video/jm1 (3).mp4",
+          "title": "jm1 (3)",
+          "filename": "jm1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:13.755Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jm1-4-mp4",
+          "src": "/clients/dainik-jagran/video/jm1 (4).mp4",
+          "title": "jm1 (4)",
+          "filename": "jm1 (4).mp4",
+          "addedAt": "2026-06-29T02:26:13.834Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jm1-5-mp4",
+          "src": "/clients/dainik-jagran/video/jm1 (5).mp4",
+          "title": "jm1 (5)",
+          "filename": "jm1 (5).mp4",
+          "addedAt": "2026-06-29T02:26:13.995Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-1-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (1).mp4",
+          "title": "jr1 (1)",
+          "filename": "jr1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:14.088Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-2-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (2).mp4",
+          "title": "jr1 (2)",
+          "filename": "jr1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:14.126Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-3-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (3).mp4",
+          "title": "jr1 (3)",
+          "filename": "jr1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:14.403Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-4-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (4).mp4",
+          "title": "jr1 (4)",
+          "filename": "jr1 (4).mp4",
+          "addedAt": "2026-06-29T02:26:14.582Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-5-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (5).mp4",
+          "title": "jr1 (5)",
+          "filename": "jr1 (5).mp4",
+          "addedAt": "2026-06-29T02:26:14.646Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-6-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (6).mp4",
+          "title": "jr1 (6)",
+          "filename": "jr1 (6).mp4",
+          "addedAt": "2026-06-29T02:26:14.820Z"
+        },
+        {
+          "id": "clients-dainik-jagran-video-jr1-7-mp4",
+          "src": "/clients/dainik-jagran/video/jr1 (7).mp4",
+          "title": "jr1 (7)",
+          "filename": "jr1 (7).mp4",
+          "addedAt": "2026-06-29T02:26:14.899Z"
+        }
+      ],
       "imageCount": 4,
-      "videoCount": 0,
-      "featured": false,
-      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "videoCount": 13,
+      "featured": true,
+      "lastUpdated": "2026-06-29T02:26:14.899Z",
       "type": "client"
     },
     {
       "id": "dev-raha-resort",
       "name": "Dev Raha Resort",
       "folder": "dev-raha-resort",
-      "order": 10,
+      "order": 11,
       "images": [
         {
           "id": "clients-dev-raha-resort-image-d1-1-jpeg",
@@ -745,7 +1051,7 @@
       "id": "hotel-sunrise",
       "name": "Hotel Sunrise",
       "folder": "hotel-sunrise",
-      "order": 11,
+      "order": 12,
       "images": [
         {
           "id": "clients-hotel-sunrise-image-h-1-jpg",
@@ -823,7 +1129,7 @@
       "id": "kitchen-galleria",
       "name": "Kitchen Galleria",
       "folder": "kitchen-galleria",
-      "order": 12,
+      "order": 13,
       "images": [
         {
           "id": "clients-kitchen-galleria-image-kg1-1-jpg",
@@ -882,18 +1188,40 @@
           "addedAt": "2026-06-17T10:15:00.000Z"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "id": "clients-kitchen-galleria-video-kg1-1-mp4",
+          "src": "/clients/kitchen-galleria/video/kg1 (1).mp4",
+          "title": "kg1 (1)",
+          "filename": "kg1 (1).mp4",
+          "addedAt": "2026-06-29T02:26:19.050Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-video-kg1-2-mp4",
+          "src": "/clients/kitchen-galleria/video/kg1 (2).mp4",
+          "title": "kg1 (2)",
+          "filename": "kg1 (2).mp4",
+          "addedAt": "2026-06-29T02:26:19.214Z"
+        },
+        {
+          "id": "clients-kitchen-galleria-video-kg1-3-mp4",
+          "src": "/clients/kitchen-galleria/video/kg1 (3).mp4",
+          "title": "kg1 (3)",
+          "filename": "kg1 (3).mp4",
+          "addedAt": "2026-06-29T02:26:19.312Z"
+        }
+      ],
       "imageCount": 8,
-      "videoCount": 0,
+      "videoCount": 3,
       "featured": true,
-      "lastUpdated": "2026-06-17T10:15:00.000Z",
+      "lastUpdated": "2026-06-29T02:26:19.312Z",
       "type": "client"
     },
     {
       "id": "ekantam",
       "name": "Ekantam",
       "folder": "ekantam",
-      "order": 13,
+      "order": 14,
       "images": [
         {
           "id": "clients-ekantam-image-e1-1-jpg",
@@ -950,7 +1278,7 @@
       "id": "homestay",
       "name": "Homestay",
       "folder": "homestay",
-      "order": 15,
+      "order": 16,
       "images": [
         {
           "id": "clients-homestay-image-h1-1-jpeg",
@@ -2170,9 +2498,9 @@
     }
   ],
   "stats": {
-    "totalClients": 13,
+    "totalClients": 14,
     "totalCategories": 14,
-    "totalImages": 178,
-    "totalVideos": 75
+    "totalImages": 183,
+    "totalVideos": 114
   }
 }
